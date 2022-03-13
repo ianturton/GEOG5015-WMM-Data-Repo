@@ -1,1 +1,3 @@
-# GEOG5015-WMM-Data-Repo
+
+# GEOG5015 Web and Mobile Mapping
+### University of Glasgow
