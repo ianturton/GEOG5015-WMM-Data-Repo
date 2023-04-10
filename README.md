@@ -10,6 +10,7 @@ Some interesting web maps from students (22-23):
 - https://hzm8888.github.io/assignment/gla_bar.html
 - https://sohini804.github.io
 - https://aparna-seshadri.github.io/final/finalmap.html
+- - https://frasermohun.github.io/Project_Webmap/Scotch_Distilleries_2830364M.html
 
 Some interesting web maps from students (21-22):
 - https://joannemarsh.github.io/2699546m_A1/Wainwrights.html
