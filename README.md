@@ -7,6 +7,7 @@ Some web map examples used for labs can be found at my Codepen: https://codepen.
 Some interesting web maps from students (22-23):
 - https://lasconcore.github.io/pia/parks.html
 - https://chancemwill.github.io/evolution-glasgow-trams/map.html
+- https://hzm8888.github.io/assignment/gla_bar.html
 
 Some interesting web maps from students (21-22):
 - https://joannemarsh.github.io/2699546m_A1/Wainwrights.html
